@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫About Me :
 
 - 🔭 I'm currently working on full-stack web apps with DRF & React
