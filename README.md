@@ -1,9 +1,13 @@
+# Hi there! 
+
+I'm a developer who is passionate to grow, collaborate and share ideas. I'm trying hard to follow best practices and high standarts and also keep in touch with state-of-art technology. Suggestions and advice are always welcome! 
+
 # 💫About Me :
 
 - 🔭 I'm currently working on full-stack web apps with DRF & React
 - 🌱 I'm learning Golang at the moment
-- 👯 I'm always looking to collaborate with designers
-- 📫 How to reach me: tg @dearcaptain
+- 👯 I'm always looking to collaborate on any project. Team work is dream work!
+- 📫 How to reach me: tg @dearcaptain 
 - ⚡ Not a pro but aspiring to become one
 
 
