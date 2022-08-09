@@ -4,10 +4,10 @@ I'm a developer who is passionate to grow, collaborate and share ideas. I'm tryi
 
 # 💫About Me :
 
-- 🔭 I'm currently working on full-stack web apps with DRF & React
+- 🔭 I'm currently working as a fullstack web developer w/ DRF & Vue
 - 🌱 I'm learning Golang at the moment
 - 👯 I'm always looking to collaborate on any project. Team work is dream work!
-- 📫 How to reach me: tg @dearcaptain 
+- 📫 How to reach me: riveriswild@icloud.com
 - ⚡ Not a pro but aspiring to become one
 
 
