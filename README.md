@@ -4,7 +4,7 @@ I'm a developer who is passionate to grow, collaborate and share ideas. I'm tryi
 
 # 💫About Me :
 
-- 🔭 I'm currently working as a fullstack web developer w/ DRF and Vue.
+- 🔭 I'm currently working as a backend web developer w/ DRF.
 - 👯 I'm always looking to collaborate on any project
 - 📫 How to reach me: riveriswild@icloud.com
 - ⚡ Not a pro but aspiring to become one
